@@ -26,6 +26,13 @@ const PROJECTS = [
         link: "https://github.com/sniegs",
         image: project3
     }
+    {
+        id: 4,
+        title:"Best project",
+        description: "Stole this from indian youtube tutorial",
+        link: "https://github.com/sniegs",
+        image: project3
+    }
 ];
 
 export default PROJECTS;
